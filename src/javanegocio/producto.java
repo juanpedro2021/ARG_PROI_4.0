@@ -6,6 +6,6 @@ public class producto {
     private String descripcion;
     private int stock;
     private int precio;
-    
+    private String color;
     
 }
